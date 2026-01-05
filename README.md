@@ -42,3 +42,14 @@ candidates = 12
 | 3  | 0.567683 | 0.6819    |
 | 5  | 0.591668 | 0.7879    |
 | 10 | 0.616826 | 0.9746    |
+
+
+## Sample Outputs
+
+![](Outputs\SimpleGAT\samecat_1.png)
+![](Outputs\SimpleGAT\samecat_2.png)
+![](Outputs\SimpleGAT\samecat_3.png)
+
+![](Outputs\SimpleGAT\notsamecat_1.png)
+![](Outputs\SimpleGAT\notsamecat_2.png)
+![](Outputs\SimpleGAT\notsamecat_3.png)
